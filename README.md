@@ -30,4 +30,27 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 Run using this command:
     export NODE_OPTIONS=--openssl-legacy-provider
     ng serve --port 4100
-  
+
+Description:
+
+A simple e-commerce frontend application built with Angular that allows users to browse products, search for items, add them to a shopping cart, and simulate checkout. The project demonstrates basic Angular concepts such as components, routing, two-way data binding, and state management.
+
+Key Features:
+
+Display a list of products with images, names, and prices.
+
+Search functionality to filter products dynamically.
+
+Add products to a cart with quantity management.
+
+Cart summary with total items and simulated checkout.
+
+Responsive navigation bar with cart indicator.
+
+Technologies Used:
+
+Frontend: Angular, HTML, CSS, Bootstrap
+
+State Management: Angular services
+
+Routing: Angular Router
