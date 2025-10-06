@@ -33,24 +33,39 @@ Run using this command:
 
 Description:
 
-A simple e-commerce frontend application built with Angular that allows users to browse products, search for items, add them to a shopping cart, and simulate checkout. The project demonstrates basic Angular concepts such as components, routing, two-way data binding, and state management.
+    A simple e-commerce Full-stack application built with Angular that allows users to browse products, search for items, add them to a shopping cart, and simulate checkout. The project demonstrates basic Angular concepts such as components, routing, two-way data binding, and state management.
 
 Key Features:
 
-Display a list of products with images, names, and prices.
+    Display a list of products with images, names, and prices.
 
-Search functionality to filter products dynamically.
+    Search functionality to filter products dynamically.
 
-Add products to a cart with quantity management.
+    Add products to a cart with quantity management.
 
-Cart summary with total items and simulated checkout.
+    Cart summary with total items and simulated checkout.
 
-Responsive navigation bar with cart indicator.
+    Responsive navigation bar with cart indicator.
 
 Technologies Used:
 
-Frontend: Angular, HTML, CSS, Bootstrap
+    Frontend: Angular, HTML, CSS, Bootstrap
+    Backend: TypeScript, API, Node.js
+    State Management: Angular services
+    Routing: Angular Router
 
-State Management: Angular services
 
-Routing: Angular Router
+How to set up and run it locally:
+
+   Install Angular CLI (if not installed)
+       npm install -g @angular/cli@12
+
+  Install Node package.json
+       npm install
+
+  Run the Project 
+       ng serve
+
+
+
+
